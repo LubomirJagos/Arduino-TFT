@@ -10,9 +10,11 @@
 </Property>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="Animated 1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Animated 1.vi"/>
+		<Item Name="Animated 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Animated 2.vi"/>
 		<Item Name="Basic 1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 1.vi"/>
 		<Item Name="Basic 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 2.vi"/>
 		<Item Name="Basic 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 3.vi"/>
+		<Item Name="Basic 7.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 7.vi"/>
 	</Item>
 	<Item Name="ProcessingLike" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -21,6 +23,10 @@
 		<Item Name="NoFill.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/NoFill.vi"/>
 		<Item Name="Stroke.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Stroke.vi"/>
 		<Item Name="NoStroke.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/NoStroke.vi"/>
+		<Item Name="Point.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Point.vi"/>
+		<Item Name="Line.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Line.vi"/>
+		<Item Name="Rect.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Rect.vi"/>
+		<Item Name="Circle.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Circle.vi"/>
 	</Item>
 	<Item Name="Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Begin.vi"/>
 	<Item Name="Create.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Create.vi"/>
