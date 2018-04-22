@@ -9,53 +9,54 @@
 
 </Property>
 	<Item Name="Examples" Type="Folder">
-		<Item Name="Animated 1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Animated 1.vi"/>
-		<Item Name="Animated 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Animated 2.vi"/>
-		<Item Name="Basic 1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 1.vi"/>
-		<Item Name="Basic 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 2.vi"/>
-		<Item Name="Basic 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 3.vi"/>
-		<Item Name="Basic 7.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/examples/Basic 7.vi"/>
+		<Item Name="Animated 1.vi" Type="VI" URL="../examples/Animated 1.vi"/>
+		<Item Name="Animated 2.vi" Type="VI" URL="../examples/Animated 2.vi"/>
+		<Item Name="Basic 1.vi" Type="VI" URL="../examples/Basic 1.vi"/>
+		<Item Name="Basic 2.vi" Type="VI" URL="../examples/Basic 2.vi"/>
+		<Item Name="Basic 3.vi" Type="VI" URL="../examples/Basic 3.vi"/>
+		<Item Name="Basic 7.vi" Type="VI" URL="../examples/Basic 7.vi"/>
+		<Item Name="Basic 4.vi" Type="VI" URL="../examples/Basic 4.vi"/>
 	</Item>
 	<Item Name="ProcessingLike" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Background.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Background.vi"/>
-		<Item Name="Fill.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Fill.vi"/>
-		<Item Name="NoFill.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/NoFill.vi"/>
-		<Item Name="Stroke.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Stroke.vi"/>
-		<Item Name="NoStroke.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/NoStroke.vi"/>
-		<Item Name="Point.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Point.vi"/>
-		<Item Name="Line.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Line.vi"/>
-		<Item Name="Rect.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Rect.vi"/>
-		<Item Name="Circle.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Circle.vi"/>
+		<Item Name="Background.vi" Type="VI" URL="../Background.vi"/>
+		<Item Name="Fill.vi" Type="VI" URL="../Fill.vi"/>
+		<Item Name="NoFill.vi" Type="VI" URL="../NoFill.vi"/>
+		<Item Name="Stroke.vi" Type="VI" URL="../Stroke.vi"/>
+		<Item Name="NoStroke.vi" Type="VI" URL="../NoStroke.vi"/>
+		<Item Name="Point.vi" Type="VI" URL="../Point.vi"/>
+		<Item Name="Line.vi" Type="VI" URL="../Line.vi"/>
+		<Item Name="Rect.vi" Type="VI" URL="../Rect.vi"/>
+		<Item Name="Circle.vi" Type="VI" URL="../Circle.vi"/>
 	</Item>
-	<Item Name="Begin.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Begin.vi"/>
-	<Item Name="Create.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Create.vi"/>
-	<Item Name="DrawBitmap.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawBitmap.vi"/>
-	<Item Name="DrawChar.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawChar.vi"/>
-	<Item Name="DrawCircle.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawCircle.vi"/>
-	<Item Name="DrawFastHLine.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawFastHLine.vi"/>
-	<Item Name="DrawFastVLine.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawFastVLine.vi"/>
-	<Item Name="DrawLine.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawLine.vi"/>
-	<Item Name="DrawPixel.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawPixel.vi"/>
-	<Item Name="DrawRect.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawRect.vi"/>
-	<Item Name="DrawRoundRect.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawRoundRect.vi"/>
-	<Item Name="DrawTriangle.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/DrawTriangle.vi"/>
-	<Item Name="FillCircle.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/FillCircle.vi"/>
-	<Item Name="FillRect.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/FillRect.vi"/>
-	<Item Name="FillRoundRect.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/FillRoundRect.vi"/>
-	<Item Name="FillScreen.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/FillScreen.vi"/>
-	<Item Name="FillTriangle.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/FillTriangle.vi"/>
-	<Item Name="GetRotation.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/GetRotation.vi"/>
-	<Item Name="Height.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Height.vi"/>
-	<Item Name="Width.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Width.vi"/>
-	<Item Name="invertDisplay.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/invertDisplay.vi"/>
-	<Item Name="NewColor.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/NewColor.vi"/>
-	<Item Name="SetCursor.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/SetCursor.vi"/>
-	<Item Name="SetRotation.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/SetRotation.vi"/>
-	<Item Name="SetTextColor.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/SetTextColor.vi"/>
-	<Item Name="SetTextColorAndSize.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/SetTextColorAndSize.vi"/>
-	<Item Name="SetTextSize.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/SetTextSize.vi"/>
-	<Item Name="SetTextWrap.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/SetTextWrap.vi"/>
-	<Item Name="Text.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Text.vi"/>
-	<Item Name="Translator.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino TFT/Translator.vi"/>
+	<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
+	<Item Name="Create.vi" Type="VI" URL="../Create.vi"/>
+	<Item Name="DrawBitmap.vi" Type="VI" URL="../DrawBitmap.vi"/>
+	<Item Name="DrawChar.vi" Type="VI" URL="../DrawChar.vi"/>
+	<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
+	<Item Name="DrawFastHLine.vi" Type="VI" URL="../DrawFastHLine.vi"/>
+	<Item Name="DrawFastVLine.vi" Type="VI" URL="../DrawFastVLine.vi"/>
+	<Item Name="DrawLine.vi" Type="VI" URL="../DrawLine.vi"/>
+	<Item Name="DrawPixel.vi" Type="VI" URL="../DrawPixel.vi"/>
+	<Item Name="DrawRect.vi" Type="VI" URL="../DrawRect.vi"/>
+	<Item Name="DrawRoundRect.vi" Type="VI" URL="../DrawRoundRect.vi"/>
+	<Item Name="DrawTriangle.vi" Type="VI" URL="../DrawTriangle.vi"/>
+	<Item Name="FillCircle.vi" Type="VI" URL="../FillCircle.vi"/>
+	<Item Name="FillRect.vi" Type="VI" URL="../FillRect.vi"/>
+	<Item Name="FillRoundRect.vi" Type="VI" URL="../FillRoundRect.vi"/>
+	<Item Name="FillScreen.vi" Type="VI" URL="../FillScreen.vi"/>
+	<Item Name="FillTriangle.vi" Type="VI" URL="../FillTriangle.vi"/>
+	<Item Name="GetRotation.vi" Type="VI" URL="../GetRotation.vi"/>
+	<Item Name="Height.vi" Type="VI" URL="../Height.vi"/>
+	<Item Name="Width.vi" Type="VI" URL="../Width.vi"/>
+	<Item Name="invertDisplay.vi" Type="VI" URL="../invertDisplay.vi"/>
+	<Item Name="NewColor.vi" Type="VI" URL="../NewColor.vi"/>
+	<Item Name="SetCursor.vi" Type="VI" URL="../SetCursor.vi"/>
+	<Item Name="SetRotation.vi" Type="VI" URL="../SetRotation.vi"/>
+	<Item Name="SetTextColor.vi" Type="VI" URL="../SetTextColor.vi"/>
+	<Item Name="SetTextColorAndSize.vi" Type="VI" URL="../SetTextColorAndSize.vi"/>
+	<Item Name="SetTextSize.vi" Type="VI" URL="../SetTextSize.vi"/>
+	<Item Name="SetTextWrap.vi" Type="VI" URL="../SetTextWrap.vi"/>
+	<Item Name="Text.vi" Type="VI" URL="../Text.vi"/>
+	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
 </Library>
